@@ -1,1 +1,70 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    height: 100vh;
+    background-color: #e6f6ff;
+}
+
+.top-card {
+    background-color: #fb4e71;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 12px;
+}
+
+.rahul-tex-card {
+    padding: 8px;
+}
+
+.rahul-heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.rahul-description {
+    font-size: 14px;
+}
+
+.bottom-card {
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.bottom-heading {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.bottom-sub-card {
+    background-color: #ffffff;
+    border-radius: 22px;
+    margin-bottom: 12px;
+}
+
+.bottom-text-card {
+    padding: 8px;
+}
+
+.bottom-text-heading {
+    font-size: 16px;
+    color: #323f4b;
+
+}
+
+.bottom-description {
+    font-size: 14px;
+    color: #888888;
+}
+
+
+.videos-text {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    padding: 6px;
+    color: #323f4b;
+}
+
+.button-card {
+    text-align: center;
+}
